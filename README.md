@@ -19,5 +19,9 @@ https://codepen.io/june50232/pen/qBpaPpB
 * Canvas
 https://codepen.io/june50232/pen/wvPPzNw
 
+* leetCode TwoSum in Js es6:
+hashMap solution | 98.74% | reduce
+https://lnkd.in/gYYMAyVs
+
 keep working on portfolio
 
